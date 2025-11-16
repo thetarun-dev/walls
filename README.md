@@ -32,3 +32,37 @@ My wallpapers collections repo
         <img src="./nature/04.png"/>
     </div>
 </details>
+
+<br>
+<hr>
+<br>
+
+<details>
+    <summary>
+        <h2 style="display: inline;">Paintings Collections</h2>
+    </summary>
+    <div style="display:flex; align-items:center; justify-content:center; flex-direction: column">
+        <br>
+        <img src="./paintings/01.png"/>
+        <img src="./paintings/02.png"/>
+        <img src="./paintings/03.png"/>
+        <img src="./paintings/04.png"/>
+        <img src="./paintings/05.png"/>
+        <img src="./paintings/06.png"/>
+        <img src="./paintings/07.png"/>
+    </div>
+</details>
+
+<br>
+<hr>
+<br>
+
+<details>
+    <summary>
+        <h2 style="display: inline;">Random Collections</h2>
+    </summary>
+    <div style="display:flex; align-items:center; justify-content:center; flex-direction: column">
+        <br>
+        <img src="./random/01.png"/>
+    </div>
+</details>
