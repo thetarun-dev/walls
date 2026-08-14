@@ -38,4 +38,20 @@ Hi and Welcome to my wallpapers collections
         border: 2px solid white;
         "><img src="./04.png"></td>
     </tr>
+    <tr>
+        <td style="
+        border: 2px solid white;
+        "><img src="./05.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./06.png"></td>
+    </tr
+    <tr>
+        <td style="
+        border: 2px solid white;
+        "><img src="./07.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./08.png"></td>
+    </tr
 </table>
