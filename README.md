@@ -1,13 +1,19 @@
 
 <h2 style="
-text-align:center">Wallpapers Collections</h2>
+display: flex;
+align-item: center;
+justify-content: center;
+">Wallpapers Collections</h2>
 
-<p style="text-align:center">
+<p style="
+display: flex;
+align-item: center;
+justify-content: center;
+">
 Hi and Welcome to my wallpapers collections
 <p>
 
 <br>
-
 
 <table>
     <tr>
