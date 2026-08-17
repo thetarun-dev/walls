@@ -94,4 +94,17 @@ Hi and Welcome to my wallpapers collections
         border: 2px solid white;
         "><img src="./18.png"></td>
     </tr
+    <tr>
+        <td style="
+        border: 2px solid white;
+        "><img src="./19.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./20.png"></td>
+    </tr
+    <tr>
+        <td style="
+        border: 2px solid white;
+        "><img src="./21.png"></td>
+    </tr
 </table>
