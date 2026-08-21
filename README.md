@@ -106,5 +106,8 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./21.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./22.png"></td>
     </tr
 </table>
