@@ -118,4 +118,12 @@ Hi and Welcome to my wallpapers collections
         border: 2px solid white;
         "><img src="./24.png"></td>
     </tr>
+    <tr>
+        <td style="
+        border: 2px solid white;
+        "><img src="./25.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./26.png"></td>
+    </tr>
 </table>
