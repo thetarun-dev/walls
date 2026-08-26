@@ -45,7 +45,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./06.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -53,7 +53,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./08.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -61,7 +61,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./10.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -69,7 +69,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./12.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -77,7 +77,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./14.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -85,7 +85,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./16.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -93,7 +93,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./18.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -101,7 +101,7 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./20.png"></td>
-    </tr
+    </tr>
     <tr>
         <td style="
         border: 2px solid white;
@@ -109,5 +109,13 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./22.png"></td>
-    </tr
+    </tr>
+    <tr>
+        <td style="
+        border: 2px solid white;
+        "><img src="./23.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./24.png"></td>
+    </tr>
 </table>
