@@ -162,5 +162,8 @@ Hi and Welcome to my wallpapers collections
         <td style="
         border: 2px solid white;
         "><img src="./35.png"></td>
+        <td style="
+        border: 2px solid white;
+        "><img src="./36.png"></td>
     </tr>
 </table>
